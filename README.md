@@ -1,3 +1,3 @@
-Jenkins
+## Jenkins
 
-Example C code for Jenkins
+Example C code with a Makefile
